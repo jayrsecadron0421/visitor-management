@@ -1,0 +1,14 @@
+# Go
+bin/
+*.exe
+*.test
+*.out
+
+# Environment
+.env
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
