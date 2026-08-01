@@ -108,3 +108,11 @@ npm run dev
 ## Author
 
 **Jayr Secadron**
+
+Bachelor of Science in Computer Science
+
+GitHub:
+https://github.com/jayrsecadron0421
+
+LinkedIn:
+https://www.linkedin.com/in/jay-r-secadron-21583a361/
