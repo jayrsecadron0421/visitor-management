@@ -57,7 +57,53 @@ npm run dev
 
 ## Screenshots
 
-(Add screenshots here later.)
+### API
+
+![API](screenshots/vm_api.png)
+
+### Login
+
+![Login Page](screenshots/vm_Login.png)
+
+### Forgot Password
+
+![Forgot Password Page](screenshots/vm_Forgotpass.png)
+
+### Reset Password
+
+![Reset Password Page](screenshots/vm_Resetpass.png)
+
+### Admin Dashboard
+
+![Admin Dashboard Page](screenshots/vm_Admindashboard.png)
+
+### Admin Users
+
+![Admin Users Page](screenshots/vm_Adminusers.png)
+
+### Admin Visitors
+
+![Admin Visitors Page](screenshots/vm_Adminvisitors.png)
+
+### Admin Visitor Passes
+
+![Admin Visitor Passes Page](screenshots/vm_Adminvisitorpass.png)
+
+### Admin Reports
+
+![Admin Reports Page](screenshots/vm_Adminreports.png)
+
+### Receptionist Check In
+
+![Receptionist Check In Page](screenshots/vm_Receptionistcheckin.png)
+
+### Receptionist Check Out
+
+![Receptionist Check Out Page](screenshots/vm_Receptionistcheckout.png)
+
+### Receptionist Passes
+
+![Receptionist Passes Page](screenshots/vm_Receptionistpasses.png)
 
 ## Author
 
