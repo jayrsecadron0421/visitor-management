@@ -115,4 +115,4 @@ GitHub:
 https://github.com/jayrsecadron0421
 
 LinkedIn:
-https://www.linkedin.com/in/jay-r-secadron-21583a361/
+https://www.linkedin.com/in/jayrsecadron
